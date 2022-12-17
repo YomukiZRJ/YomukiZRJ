@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @YomukiZRJ
 - 👀 前端打工人
 - 🌱 世界上最远的距离，不是生与死，而是我在学习，你却不学习。
-- 🎮 斯普拉遁3，怪物猎人曙光、对马岛
+- 🎮 战神、宝可梦朱紫
 - 🚀 日常:
   ![JavaScript](https://img.shields.io/badge/JavaScript-000000?logo=JavaScript&logoColor=FFCA28)
   ![Vue](https://img.shields.io/badge/Vue.js-35495E?logo=vue.js&logoColor=4FC08D)
